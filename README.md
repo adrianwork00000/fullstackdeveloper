@@ -15,7 +15,6 @@ I am a passionate developer with experience in building web and mobile applicati
 - **Mobile**: React Native  
 - **Databases**: MongoDB, MySQL  , firebase
 - **Other**: Git, Docker, RESTful APIs, GraphQL  
-💗 **My Favorites Techs:**
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
