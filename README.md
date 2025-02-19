@@ -2,7 +2,8 @@
 <p align="center">
   <a href="https://github.com/AdonisGithub"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Blockchain%20developer;Web%20Developer;7%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
- I am a passionate developer with experience in building web and mobile applications. My expertise lies in the following technologies:  
+ I'm a passionate full-stack developer with a rich skill set in web and mobile application development, focusing on the MERN stack and React Native.I'm proficient in both frontend and backend technologies, including next.js and Laravel, as well as various databases like MongoDB and MySQL. I highlights my notable projects to showcase my contributions and invites collaboration within the developer community through my LinkedIn and personal website.
+ My expertise lies in the following technologies:  
 
 - **Web Development**: MERN Stack (MongoDB, Express.js, React.js, Node.js), Next.js, Nuxt.js, Angular  
 - **Mobile Development**: React Native  
@@ -10,8 +11,8 @@
 
 ## Skills & Technologies  
 
-- **Frontend**: HTML5, CSS3, JavaScript, React.js, Angular, Next.js, Nuxt.js  
-- **Backend**: Node.js, Express.js, Laravel  
+- **Frontend**: HTML5, CSS3, JavaScript, React.js, Angular, Next.js, Nuxt.js  Laravel
+- **Backend**: Node.js, Express.js, Laravel  django
 - **Mobile**: React Native  
 - **Databases**: MongoDB, MySQL  
 - **Other**: Git, Docker, RESTful APIs, GraphQL  
