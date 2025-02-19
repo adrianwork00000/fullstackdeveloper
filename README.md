@@ -61,6 +61,17 @@
 </div>
 <br />
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+## Notable Projects  
+
+1. **Project Title ()**  
+   - Description: Briefly describe what the project does and the technologies used. Mention your role and contributions.  
+
+2. **Project Title ()**  
+   - Description: Briefly describe what the project does and the technologies used. Mention your role and contributions.  
+
+3. **Project Title ()**  
+   - Description: Briefly describe what the project does and the technologies used. Mention your role and contributions.  
+
 
 <!-- [📞 TG](https://t.me) -->
 <!-- [📝 Email](mailto:) -->
