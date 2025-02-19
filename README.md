@@ -57,10 +57,9 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 <br />
  <div>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
 </div>
 <br />
-
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 ## Notable Projects  
 
 1. **Project Title ()**  
@@ -71,7 +70,9 @@
 
 3. **Project Title ()**  
    - Description: Briefly describe what the project does and the technologies used. Mention your role and contributions.  
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
 
 <!-- [📞 TG](https://t.me) -->
 <!-- [📝 Email](mailto:) -->
